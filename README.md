@@ -8,7 +8,7 @@ In this project, let's build a **Routing Practice** app by applying the concepts
 </div>
 <br/>
 
-### Design Files  Are Given:
+### Design Files
 
 <details>
 <summary>Click to view</summary>
